@@ -1,0 +1,2 @@
+include ':app', ':email-sender'
+rootProject.name='Email Sender Library'
